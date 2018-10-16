@@ -1,0 +1,32 @@
+
+
+/* ng-cloak */
+[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}
+
+.customersBlock{
+    border: 3px solid red;
+    padding:20px;
+    border-radius: 3px;
+    margin: 0 auto;
+    width: 80%;
+    height:400px;
+    
+}
+.customersBlock h2{
+    text-align: Center;
+}
+.customersBlock .filterSearch{
+    display: inline-block;
+    border: 2px solid salmon;
+    border-radius: 2px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.customersBlock table{
+    float: left;
+}
+
+.customersBlock .total{
+    float: right;
+    border-bottom: 2px solid greenyellow;
+}
